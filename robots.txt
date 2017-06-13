@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /bat/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /tmp/
+Host: xn----8sbouhmun4i.xn--p1ai
